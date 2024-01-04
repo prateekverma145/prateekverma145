@@ -1,4 +1,4 @@
-👋 ### Hello there! I'm Prateek Verma
+# 👋 Hello there! I'm Prateek Verma
 
 - 🤖 Machine Learning Engineer | 📊 Data Analyst
 - 🌐 Turning data into insights and models into solutions
