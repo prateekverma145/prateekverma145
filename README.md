@@ -19,3 +19,4 @@
 
 - 📧 Email: verma.lko.prateek03@gmail.com
 - 📌 LinkedIn: https://www.linkedin.com/in/prateek-verma-2a202b287
+- 📌 Portfolio: https://prateekverma145.github.io/portfolio.io/
