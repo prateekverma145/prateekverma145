@@ -78,9 +78,9 @@
 ## 🚀 Recent Projects  
 
 🔹 **[NGO Management Website](https://github.com/prateekverma145/ngo-management)** - AI-driven platform for NGOs to manage volunteers, opportunities, and donations.  
-🔹 **[E-commerce Chrome Extension](https://github.com/prateekverma145/ecommerce-extension)** - AI-powered extension for product Q&A on e-commerce sites using BERT.  
-🔹 **[AI-based News Scraper](https://github.com/prateekverma145/ai-news-scraper)** - Automated web scraping and categorization of news articles using AI.  
-🔹 **[C++ Code Visualizer](https://github.com/prateekverma145/code-visualizer)** - Graph/tree visualization of C++ code execution.  
+🔹 **[E-commerce Chrome Extension](https://github.com/prateekverma145/E-commerceAI-chrome-extension)** - AI-powered extension for product Q&A on e-commerce sites using BERT.  
+🔹 **[AI-based News Scraper](https://github.com/prateekverma145/SmartScrapAI)** - Automated web scraping and categorization of news articles using AI.  
+🔹 **[Whatsapp Chat Analyzer](https://github.com/prateekverma145/whatsapp_chat_analyzer)** - Chat analysis project based on NLP.  
 
 📌 **More projects:** [Check my repositories](https://github.com/prateekverma145?tab=repositories)!  
 
