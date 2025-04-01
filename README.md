@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hello, I'm Prateek Verma! </h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prateekverma145&color=blueviolet&style=flat-square" />
-</p>
+</p> -->
 <p align="center">
   🤖 Machine Learning Engineer | 📊 Data Analyst | 🌐 Full Stack Developer  
 </p>
