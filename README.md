@@ -1,7 +1,5 @@
 <h1 align="center"> 👋 Hello, I'm Prateek Verma! </h1>
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateekverma145&color=blueviolet&style=flat-square" />
-</p> -->
+
 <p align="center">
   🤖 Machine Learning Engineer | 📊 Data Analyst | 🌐 Full Stack Developer  
 </p>
@@ -15,6 +13,15 @@
   </a>
   <a href="mailto:verma.lko.prateek03@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-ff69b4?style=flat&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1UHGJ-6vtTuf10KMjoUer2VVkvgKfUYoo/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-📄%20Resume SDE-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="WEBDEV Resume" />
+  </a>
+  <a href="https://drive.google.com/file/d/1RhDNw2e3UFcscBE4JOBsdqQaLlKoXTv4/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-📄%20Resume DS-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="AI/ML Resume" />
   </a>
 </p>
 
@@ -33,11 +40,12 @@
 
 ## 💼 Technical Skills  
 
-### **🚀 Programming**  
+### **🚀 Programming & Scripting**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ### **🤖 AI & ML**  
@@ -45,18 +53,25 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/-HuggingFace%20Transformers-FCC624?style=flat-square&logo=python&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-2A2929?style=flat-square)
 
 ### **📊 Data Analysis & Visualization**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-007FFF?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### **🛠 Tools & Technologies**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/-MERN-ffffff?style=flat-square&logo=mongodb&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
